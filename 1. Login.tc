@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login for Make a appointment</description>
+   <name>1. Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c85bb01c-8056-4fd0-9384-3766a0d3051a</testCaseGuid>
+</TestCaseEntity>
