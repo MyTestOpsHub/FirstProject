@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>RUN ALL GET REQ</description>
+   <name>REST_API_EMPLOYEE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f590227e-5088-48fc-b339-ee2eeefafa97</testCaseGuid>
+</TestCaseEntity>
