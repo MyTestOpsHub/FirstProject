@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POST-LOGIN - UNSUCCESSFUL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9699e289-c2e1-4e2f-8bdf-a84d955140a6</testCaseGuid>
+</TestCaseEntity>
